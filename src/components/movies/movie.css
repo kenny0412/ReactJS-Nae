@@ -1,0 +1,11 @@
+.container{
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.backg{
+    margin-bottom: 0%;
+    border-radius: 5px;
+    -webkit-box-shadow: 10px 10px 17px -1px rgba(0,0,0,0.28);
+    -moz-box-shadow: 10px 10px 17px -1px rgba(0,0,0,0.28);
+    box-shadow: 10px 10px 17px -1px rgba(0,0,0,0.28);
+}
